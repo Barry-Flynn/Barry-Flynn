@@ -8,6 +8,8 @@ Barry Flynn is a beginner who is keen to explore new things. At this stage, he i
 
 ![Barry-Flynn's github stats](https://github-readme-stats.vercel.app/api?username=Barry-Flynn&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
+他的 GitHub 仓库的语言占比：
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Barry-Flynn&layout=compact)](https://github.com/Barry-Flynn)
 
 
