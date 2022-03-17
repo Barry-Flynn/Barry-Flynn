@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+<!--Barry-Flynn
 **Barry-Flynn/Barry-Flynn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Reeveng's github stats](https://github-readme-stats.vercel.app/api?Barry-Flynn=reeveng&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Barry-Flynn's github stats](https://github-readme-stats.vercel.app/api?username=Barry-Flynn&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
