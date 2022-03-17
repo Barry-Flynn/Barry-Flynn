@@ -1,4 +1,4 @@
-# 💻Barry-Flynn 🧑🏻![](https://visitor-badge.laobi.icu/badge?page_id=Barry-Flynn.readme)
+# <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">🧑🏻 Barry-Flynn ![](https://visitor-badge.laobi.icu/badge?page_id=Barry-Flynn.readme)
 <p>
   <img alt="vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff" />
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> 
@@ -23,13 +23,13 @@
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-DB652A?style=flat-square&logo=ubuntu&logoColor=white" />
 </p>
 
-百里飞洋是一个热衷于探索新事物的初级萌新。现阶段为在读学生，坐标中国河南省。<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+🚀百里飞洋是一个热衷于探索新事物的初级萌新。现阶段为在读学生，坐标中国河南省。
 
-Barry Flynn is a beginner who is keen to explore new things. At this stage, he is studying in Henan Province, China.
+🚀Barry-Flynn is a beginner who is keen to explore new things. At this stage, he is studying in Henan Province, China.
 
-他的座右铭是：星河滚烫，无问西东。屁话少说，放码过来。
+💻他的座右铭是：星河滚烫，无问西东。屁话少说，放码过来。
 
-His motto is:The Star River is hot and bright. Don't talk so much, just do it. Talk is cheap, show me your code.
+💻His motto is:The Star River is hot and bright.Don't talk so much, just do it. Talk is cheap, show me your code.
 
 ---
 
