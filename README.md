@@ -1,4 +1,4 @@
-# 🧑🏻 百里飞洋 | Barry-Flynn <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"><img alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Barry-Flynn.readme" /> 
+# 🧑🏻 百里飞洋 | Barry-Flynn <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"><img alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Barry-Flynn.readme&left_text=%E6%B5%8F%E8%A7%88%E9%87%8F%20Visitors" /> 
 
 <img alt="Barry-Flynn's Github chart" src="https://ghchart.rshah.org/Barry-Flynn" />
 
