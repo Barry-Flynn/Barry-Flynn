@@ -10,7 +10,7 @@ Barry Flynn is a beginner who is keen to explore new things. At this stage, he i
 
 他的 GitHub 仓库的语言占比：
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Barry-Flynn&layout=compact)](https://github.com/Barry-Flynn)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Barry-Flynn&layout=compact)
 
 
 
