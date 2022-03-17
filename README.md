@@ -1,4 +1,8 @@
-# <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">🧑🏻 Barry-Flynn ![](https://visitor-badge.laobi.icu/badge?page_id=Barry-Flynn.readme)
+# 🧑🏻 百里飞洋 | Barry-Flynn <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"><img alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Barry-Flynn.readme" /> 
+
+<img alt="Barry-Flynn's Github chart" src="https://ghchart.rshah.org/Barry-Flynn" />
+
+<div style="width:100%;text-align:center;">
 <p>
   <img alt="vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff" />
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> 
@@ -22,6 +26,7 @@
   <img alt="Android" src="https://img.shields.io/badge/-Android-181818?style=flat-square&logo=Android&logoColor=a5ca3a" />
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-DB652A?style=flat-square&logo=ubuntu&logoColor=white" />
 </p>
+</div>
 
 🚀百里飞洋是一个热衷于探索新事物的初级萌新。现阶段为在读学生，坐标中国河南省。
 
@@ -35,12 +40,11 @@
 
 他的 GitHub 统计数据：
 
-![Barry-Flynn's github stats](https://github-readme-stats.vercel.app/api?username=Barry-Flynn&show_icons=true&title_color=3a95ff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+<img alt="Barry-Flynn's github stats" src="https://github-readme-stats.vercel.app/api?username=Barry-Flynn&show_icons=true&title_color=3a95ff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 
 他的 GitHub 仓库代码语言占比：
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Barry-Flynn&layout=compact&title_color=3a95ff&text_color=9f9f9f&&bg_color=151515)
-
+<img alt="Most Used Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barry-Flynn&layout=compact&title_color=3a95ff&text_color=9f9f9f&&bg_color=151515" />
 
 
 
@@ -51,6 +55,8 @@
 💻
 
 🧑🏻
+
+本文被浏览次数(Number of visitors)：<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"><img alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Barry-Flynn.readme" /> 
 
 [![Barry-Flynn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Barry-Flynn&show_icons=true)](https://github.com/Barry-Flynn)
 
