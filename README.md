@@ -12,10 +12,11 @@
   <img alt="vs" src="https://img.shields.io/badge/Visual%20Studio-6f2077?style=flat-square&logo=visual-studio&logoColor=ffffff" />
   <img alt="IntelliJ-IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-black?style=flat-square&logo=IntelliJ%20IDEA&logoColor=ffffff" />
 <br />
+  <img alt="C语言" src="https://img.shields.io/badge/C%E8%AF%AD%E8%A8%80-00569e?style=flat-square&logo=C&logoColor=white" /> 
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> 
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-3a95ff?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-ffaf24?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="Less" src="https://img.shields.io/badge/-{Less}-00166a?style=flat-square&logo=less&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-ffaf24?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-131a28?style=flat-square&logo=jQuery&logoColor=white" />
   <img alt="Vue" src="https://img.shields.io/badge/-Vue-5BA17F?style=flat-square&logo=vue.js&logoColor=white" />
   <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=Node.js&logoColor=white" />
