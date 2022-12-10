@@ -47,9 +47,11 @@
 
 <img alt="Barry-Flynn's github stats" src="https://github-readme-stats.vercel.app/api?username=Barry-Flynn&show_icons=true&title_color=3a95ff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 
+<!-- 
 他的 GitHub 仓库代码语言占比：
 
 <img alt="Most Used Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barry-Flynn&layout=compact&title_color=3a95ff&text_color=9f9f9f&&bg_color=151515" />
+ -->
 
 
 
