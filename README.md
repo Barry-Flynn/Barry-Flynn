@@ -33,9 +33,9 @@
 </p>
 </div>
 
-🚀百里飞洋是一个热衷于探索新事物的初级萌新。现阶段为在读学生，坐标中国河南省。
+🚀百里飞洋是一个热衷于探索新事物的初级萌新。现阶段为在读学生，坐标中国。
 
-🚀Barry-Flynn is a beginner who is keen to explore new things. At this stage, he is studying in Henan Province, China.
+🚀Barry-Flynn is a beginner who is keen to explore new things. At this stage, he is studying in China.
 
 💻他的座右铭是：星河滚烫，无问西东。屁话少说，放码过来。
 
